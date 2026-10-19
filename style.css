@@ -1,8 +1,6 @@
-@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;600;700;800&display=swap");
-
 :root {
   color-scheme: light;
-  font-family: "DM Sans", "Noto Sans KR", sans-serif;
+  font-family: "Trebuchet MS", "Noto Sans KR", sans-serif;
   color: #20263b;
   background: #f5f7fb;
   font-synthesis: none;

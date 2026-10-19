@@ -183,6 +183,7 @@ function toggleFlag(index) {
 function finishGame(won) {
   gameOver = true;
   window.clearInterval(timerId);
+  timerId = null;
 
   if (won) {
     cells.forEach((cell) => {
